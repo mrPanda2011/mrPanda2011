@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mPower
-- 👀 I’m interested in SuS things...
+- 👀 I’m interested in Lua, CSS, Java, JS, HTML, C++.
 - 🌱 I’m currently learning CSS.
 - 📫 How to reach me: Discord https://discord.gg/KgfaFf3WNq
 - 😄 Pronouns: he/hin (Anti Gender and LGBTQ)
